@@ -1,0 +1,11 @@
+{
+  "name": "mms-it-it-it",
+  "version": "1.0.0",
+  "description": "san kyi tar par",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
