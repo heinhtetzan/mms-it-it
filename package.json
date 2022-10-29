@@ -1,11 +1,22 @@
 {
-  "name": "mms-it-it-it",
+  "name": "mms-it-it",
   "version": "1.0.0",
   "description": "san kyi tar par",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinhtetzan/mms-it-it.git"
+  },
+  "author": "hein htet zan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heinhtetzan/mms-it-it/issues"
+  },
+  "homepage": "https://github.com/heinhtetzan/mms-it-it#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
